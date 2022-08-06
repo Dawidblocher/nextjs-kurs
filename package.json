@@ -10,6 +10,7 @@
     "lint:fix": "next lint --fix"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.0",
     "@mantine/core": "^5.0.2",
     "@mantine/hooks": "^5.0.2",
     "@mantine/next": "^5.0.2",
